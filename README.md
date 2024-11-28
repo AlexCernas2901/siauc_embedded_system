@@ -1,4 +1,4 @@
-# Embedded System for RFID-Based Attendance
+# Embedded System for SIAUC API
 
 This embedded system is part of a project designed to manage attendance using RFID technology and WiFi connectivity. It works alongside SIAUC API to validate user identifiers (UIDs) and provide feedback on attendance events.
 
